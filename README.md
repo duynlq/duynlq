@@ -6,6 +6,9 @@
 - ⚡ My favorite genres are Comedy, Crime, Thriller and Horror, which I enjoy on any medium such as mangas, visual novels, and movies.
 
 - 💬 Pick your favorite from my quality projects below and let's align our goals!
+
+  ### My Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duynlq)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **duynlq/duynlq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
