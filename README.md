@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello!👋
 
+- 🌱 I am Duy and I have a passion for insightful coding.
+- 🔭 I specialize in using Machine Learning for retail, hospitality, marketing, and investment. 
+- 👯 I'm always open for local connections in Austin, TX.
+- ⚡ My favorite genres are Comedy, Crime, Thriller and Horror, which I enjoy on any medium such as mangas, visual novels, and movies.
+
+- 💬 Pick your favorite from my quality projects below and let's align our goals!
 <!--
 **duynlq/duynlq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
