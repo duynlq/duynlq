@@ -1,6 +1,6 @@
 ### Hello!👋
 
-- 🌱 I am Duy and I have a passion for insightful coding.
+- 🌱 I am Duy. I have a M.S. in Data Science and I have a passion in insightful coding.
 - 🔭 I specialize in using Machine Learning for retail, hospitality, marketing, and investment. 
 - 👯 I'm always open for local connections in Austin, TX.
 - ⚡ My favorite genres are Comedy, Crime, Thriller and Horror, which I enjoy through mangas, visual novels, and movies.
