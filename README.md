@@ -7,7 +7,7 @@
 - 💬 Pick your favorite from my quality projects below and let's align our goals!
 - 📫 Email: dnguyen760397@gmail.com | LinkedIn: linkedin.com/in/duynlq
 
-### My Stats
+<!--### My Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=duynlq&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--
 **duynlq/duynlq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
