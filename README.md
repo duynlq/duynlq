@@ -1,8 +1,7 @@
 ### Hello!👋
 
-- 🌱 I am Duy. I have a M.S. in Data Science and I have a passion in insightful coding.
-- 🔭 I specialize in using Machine Learning for retail, hospitality, marketing, and investment. 
-- 💬 Pick your favorite from below and let's talk about it!
+- I am Duy. I have a Master's in Data Science and I have a passion for bringing insights from data to businesses.
+- Pick your favorite from below and let's talk about it!
 - 📫 Email: dnguyen760397@gmail.com | LinkedIn: linkedin.com/in/duynlq
 
 <!--### My Stats
