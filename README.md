@@ -2,9 +2,7 @@
 
 - 🌱 I am Duy. I have a M.S. in Data Science and I have a passion in insightful coding.
 - 🔭 I specialize in using Machine Learning for retail, hospitality, marketing, and investment. 
-- 👯 I'm always open for local connections in Austin, TX.
-- ⚡ My favorite genres are Comedy, Crime, Thriller and Horror, which I enjoy through mangas, visual novels, and movies.
-- 💬 Pick your favorite from my quality projects below and let's align our goals!
+- 💬 Pick your favorite from below and let's talk about it!
 - 📫 Email: dnguyen760397@gmail.com | LinkedIn: linkedin.com/in/duynlq
 
 <!--### My Stats
