@@ -1,8 +1,8 @@
 ### Hello!👋
 
 - I am Duy. I have a Master's in Data Science and I have a passion for bringing insights from data to businesses.
-- Pick your favorite from the pinned below and let's talk about it!
-- 📫 Email: dnguyen760397@gmail.com | LinkedIn: linkedin.com/in/duynlq
+- Pick your favorite from below and let's talk about it!
+- 📫 Email: duynlq@outlook.com | LinkedIn: linkedin.com/in/duynlq
 
 <!--### My Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=duynlq&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
