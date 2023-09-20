@@ -1,6 +1,7 @@
 ### Hello!👋
 
-- I am Duy. I have a Master's in Data Science and I have a passion for bringing insights from data to businesses.
+- M.S. Data Science with expertise in advanced mathematical models, data manipulation, machine learning, and statistical analysis.
+- Self-starter with attention to small details, excellent communication skills and strong engineering mindset.
 - Pick your favorite from below and let's talk about it!
 - 📫 My Email: duynlq@outlook.com
 - 💬 My LinkedIn: linkedin.com/in/duynlq
