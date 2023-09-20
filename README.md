@@ -3,8 +3,8 @@
 - M.S. Data Science with expertise in advanced mathematical models, data manipulation, machine learning, and statistical analysis.
 - Self-starter with attention to small details, excellent communication skills and strong engineering mindset.
 - Pick your favorite from below and let's talk about it!
-- 📫 My Email: duynlq@outlook.com
-- 💬 My LinkedIn: linkedin.com/in/duynlq
+- 📫 Email: duynlq@outlook.com
+- 💬 LinkedIn: linkedin.com/in/duynlq
 
 <!--### My Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=duynlq&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
