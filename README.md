@@ -1,4 +1,4 @@
-# Hello!👋
+# Hello!👋 My name is Duy (Dewey).
 
 - Currently working as a Software Engineer, with background in B.S. Computer Science and M.S. Data Science.
 - Expertise in mathematical models, data manipulation and visualization, machine learning, and statistical analysis.
