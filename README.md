@@ -1,10 +1,19 @@
-### Hello!👋
+# Hello!👋
 
-- M.S. Data Science with expertise in advanced mathematical models, data manipulation, machine learning, and statistical analysis.
+- Currently working as a Software Engineer, with background in B.S. Computer Science and M.S. Data Science.
+- Expertise in mathematical models, data manipulation and visualization, machine learning, and statistical analysis.
 - Self-starter with attention to small details, excellent communication skills and strong engineering mindset.
 - Pick your favorite from below and let's talk about it!
 - 📫 Email: duynlq@outlook.com
-- 💬 LinkedIn: linkedin.com/in/duynlq
+- 💬 LinkedIn: linkedin.com/in/duynlqT
+
+### My Techstack
+- JavaScript/TypeScript
+- GraphQL, Prisma
+- Python 
+- SQL
+- R, SAS
+- Tableau, Power BI
 
 <!--### My Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=duynlq&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
