@@ -11,9 +11,9 @@
 ### My Techstack
 - Python 
 - SQL
-- AWS: Lambda, CloudFormation, Scheduler, Aurora and RDS, Secrets Manager, Parameter Store
+- AWS: QuickSight/Suite, Lambda, CloudFormation, Scheduler, Aurora and RDS, Secrets Manager, Parameter Store
+- Tableau, Power BI
 - R, SAS
-- QuickSight/Suite, Tableau, Power BI
 - JavaScript/TypeScript
 - GraphQL, Prisma
 
