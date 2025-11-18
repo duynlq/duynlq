@@ -4,7 +4,6 @@
 - My background is in Computer Science (B.S.) and Data Science (M.S.).
 - Expertise in data engineering, manipulation and visualization, as well as statistical analysis and machine learning.
 - Always working with due-diligence and paying attention to small details, while improving communication skills and aming to improve the organization's analytics as a whole.
-- Pick your favorite from below and let's talk about it!
 - 📫 Email: duynlq@outlook.com
 - 💬 LinkedIn: linkedin.com/in/duynlq
 
