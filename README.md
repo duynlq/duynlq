@@ -5,7 +5,6 @@
 - Expertise in data engineering, manipulation and visualization, as well as statistical analysis and machine learning.
 - Always working with due-diligence and paying attention to small details, while improving communication skills and aming to improve the organization's analytics as a whole.
 - 📫 Email: duynlq@outlook.com
-- 💬 LinkedIn: linkedin.com/in/duynlq
 
 ### My Techstack
 - Python 
