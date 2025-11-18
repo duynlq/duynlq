@@ -1,19 +1,21 @@
 # Hello!👋 My name is Duy (Dewey).
 
-- Currently working as a Software Engineer, with background in B.S. Computer Science and M.S. Data Science.
-- Expertise in mathematical models, data manipulation and visualization, machine learning, and statistical analysis.
-- Self-starter with attention to small details, excellent communication skills and strong engineering mindset.
+- Currently working as a Business Intelligence Engineer.
+- My background is in Computer Science (B.S.) and Data Science (M.S.).
+- Expertise in data engineering, manipulation and visualization, as well as statistical analysis and machine learning.
+- Always working with due-diligence and paying attention to small details, while improving communication skills and aming to improve the organization's analytics as a whole.
 - Pick your favorite from below and let's talk about it!
 - 📫 Email: duynlq@outlook.com
-- 💬 LinkedIn: linkedin.com/in/duynlqT
+- 💬 LinkedIn: linkedin.com/in/duynlq
 
 ### My Techstack
-- JavaScript/TypeScript
-- GraphQL, Prisma
 - Python 
 - SQL
+- AWS: Lambda, CloudFormation, Scheduler, Aurora and RDS, Secrets Manager, Parameter Store
 - R, SAS
-- Tableau, Power BI
+- QuickSight/Suite, Tableau, Power BI
+- JavaScript/TypeScript
+- GraphQL, Prisma
 
 <!--### My Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=duynlq&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
