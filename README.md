@@ -1,6 +1,6 @@
 # Hello!👋 My name is Duy (Dewey).
 
-- Currently working as a Business Intelligence Engineer.
+- Currently working as a Business Intelligence Developer.
 - My background is in Computer Science (B.S.) and Data Science (M.S.).
 - Expertise in data engineering, manipulation and visualization, as well as statistical analysis and machine learning.
 - Always working with due-diligence and paying attention to small details, while improving communication skills and aming to improve the organization's analytics as a whole.
